@@ -21,4 +21,6 @@ assertEqual(obj["a"], 3);
 assertEqual(obj["b"], 1);
 assertEqual(obj["t"], 1);
 
+module.exports = countLetters;
+
 

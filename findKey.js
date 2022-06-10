@@ -35,3 +35,4 @@ const myCallback = x => x.stars === 2;
 const response = findKey(myObject, myCallback) // => "noma"
 console.log(response);
 
+module.exports = findKey;
